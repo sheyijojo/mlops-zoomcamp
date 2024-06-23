@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/490283597288614026/d3626990143b4ca6afbeec49fc0eb9fa/artifacts
+end_time: 1719145205170
+entry_point_name: ''
+experiment_id: '490283597288614026'
+lifecycle_stage: active
+run_id: d3626990143b4ca6afbeec49fc0eb9fa
+run_name: likeable-rat-310
+run_uuid: d3626990143b4ca6afbeec49fc0eb9fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719145202414
+status: 3
+tags: []
+user_id: codespace
